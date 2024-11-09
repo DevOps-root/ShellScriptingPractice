@@ -1,6 +1,7 @@
 
-write shellscript for factorial
+# write shellscript for factorial
 
+``````
 counter=$1
 factorial=1
 
@@ -15,3 +16,5 @@ while [ $counter -gt 0]; do
     echo "$factorial"
     done
  fi   
+
+ ``````
