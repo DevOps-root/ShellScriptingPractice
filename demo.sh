@@ -1,7 +1,3 @@
-
-# write shellscript for factorial
-
-``````
 #!/bin/bash
 
 counter=$1
@@ -18,4 +14,3 @@ else
         echo "$factorial"
     done
 fi
- ``````
